@@ -1,6 +1,6 @@
 import requests #http request
 from bs4 import BeautifulSoup as bs # webscraping
-
+import html5lib
 #send email
 import smtplib
 
@@ -17,24 +17,25 @@ now = datetime.datetime.now()
 
 # email content place
 content = ''
-
+souping = ''
 def extract_news(url):
     print('extracting News Stories')
     cnt = '' #place holder for assigning content
-    cnt += ('<b>Top Stories:</b>\n'+'<hr>') #first line
+    cnt += ('<b>Top Stories in thời sự:</b>\n'+'<hr>') #first line
     response = requests.get(url) #get content from the url and stored in the response object
     content = response.content #get the content of the http response object
-    soup = bs(content,'html.parser')
-    for i,tag in enumerate(soup.find_all('h3',attrs={'class': 'title-news'})):
+    soup = bs(content,'html5lib')
+    for i,tag in enumerate(soup.find_all('h3',class_ = 'title-news')):
         # after extract all the data with its index we pass the output to cnt
-        if i == 30:
+        if i == 10:
             break
-        cnt += ((str(i+1) + ' :: '+tag.text + "\n" + '<br>' ) if tag.text!= 'More' else '')
+
+        cnt += ((str(i+1)+'::'+tag.text.strip() + '\n' + '<br>' ))
     return(cnt)
 
-cnt = extract_news('https://vnexpress.net/goc-nhin')
+cnt = extract_news('https://vnexpress.net/thoi-su')
 content += cnt
-content += ('<br>')
+content += ('<br>-------<br>\n')
 
 content +=('End of Message')
 
