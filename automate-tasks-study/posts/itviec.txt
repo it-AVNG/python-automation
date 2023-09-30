@@ -1,41 +1,16 @@
-Date post: 2023-08-04 18:24:40.722261 
-Position 1: Backend Developer (Python, Django)
- Company : Skylink Group
- Date post:  Posted 4 days ago 
- link: https://itviec.com//it-jobs/backend-developer-python-django-skylink-group-2649?lab_feature=preview_jd_page
+Date post: 2023-09-30 16:10:34.007078 
+Position 1: Python Developer
+ Company : Officience
+ Date post:  Posted 3 days ago 
+ link: https://itviec.com//it-jobs/python-developer-officience-4744?lab_feature=preview_jd_page
  ---------------------- 
-Position 2: Sr Python Developer (Python/Django/ReactJS)
- Company : Relia Systems
- Date post:  Posted 10 days ago 
- link: https://itviec.com//it-jobs/sr-python-developer-python-django-reactjs-relia-systems-3815?lab_feature=preview_jd_page
- ---------------------- 
-Position 3: Hanoi/HCM - Backend Developer (Python- Django/VueJS)
- Company : ZIGExN VeNtura
- Date post:  Posted 13 days ago 
- link: https://itviec.com//it-jobs/hanoi-hcm-backend-developer-python-django-vuejs-zigexn-ventura-3541?lab_feature=preview_jd_page
- ---------------------- 
-Position 4: Django Web Application Developer
- Company : Bosch Global Software Technologies Company Limited
- Date post:  Posted 16 days ago 
- link: https://itviec.com//it-jobs/django-web-application-developer-bosch-global-software-technologies-company-limited-5249?lab_feature=preview_jd_page
- ---------------------- 
-Position 5: Mid/Sr Back-End Python Engineer (Django, AWS) - Hybrid
- Company : PrismTech Inc.
- Date post:  Posted 25 days ago 
- link: https://itviec.com//it-jobs/senior-back-end-python-engineer-django-aws-hybrid-prismtech-inc-5830?lab_feature=preview_jd_page
- ---------------------- 
-Position 6: [Hybrid] Senior Backend Dev (Python)
+Position 2: [Hybrid] Senior Backend Dev (Python)
  Company : MODEC
- Date post:  Posted 3 days ago 
- link: https://itviec.com//it-jobs/remote-hybrid-senior-backend-dev-python-modec-0359?lab_feature=preview_jd_page
+ Date post:  Posted 16 days ago 
+ link: https://itviec.com//it-jobs/hybrid-senior-backend-dev-python-modec-3607?lab_feature=preview_jd_page
  ---------------------- 
-Position 7: Backend Engineer (Python)
+Position 3: Backend Engineer (Python, Go, Java)
  Company : Trusting Social
- Date post:  Posted 3 days ago 
- link: https://itviec.com//it-jobs/backend-engineer-python-trusting-social-2257?lab_feature=preview_jd_page
- ---------------------- 
-Position 8: Technical Lead/ Senior Back-end Engineer
- Company : Parcel Perform
- Date post:  Posted 21 days ago 
- link: https://itviec.com//it-jobs/senior-software-engineer-technical-lead-parcel-perform-1043?lab_feature=preview_jd_page
+ Date post:  Posted 18 days ago 
+ link: https://itviec.com//it-jobs/backend-engineer-python-go-java-trusting-social-5900?lab_feature=preview_jd_page
  ---------------------- 
